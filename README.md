@@ -1,1 +1,1 @@
-# Redirect-Amazon
+# Please change your branch to master to see the webproject!!
